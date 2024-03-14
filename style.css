@@ -55,7 +55,7 @@ h2{
     gap: 50px;
 }
 .first-section{
-    background-image: url(assets/images/1st-sec.svg);
+    background-image: url(./assets/images/1st-sec.svg);
     max-width: 1272px;
     margin: 0 auto;
     padding: 0 84px;
@@ -158,7 +158,7 @@ h2{
 .image-container{
     width: 1204px;
     height: 360.3px;
-    background-image: url(assets/images/2nd-sec.svg);
+    background-image: url(./assets/images/2nd-sec.svg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px;
@@ -254,7 +254,7 @@ h2{
 .img-cont-one{
     width: 579.02px;
     height: 278.09px;
-    background-image: url(assets/images/3rd-sec-n1.svg);
+    background-image: url(./assets/images/3rd-sec-n1.svg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px;
@@ -262,7 +262,7 @@ h2{
 .img-cont-two{
     width: 579.02px;
     height: 278.09px;
-    background-image: url(assets/images/3rd-sec-n2.svg);
+    background-image: url(./assets/images/3rd-sec-n2.svg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px;
@@ -295,7 +295,7 @@ h2{
 .hor-img-one{
     width: 547.51px;
     height: 367.41px;
-    background-image: url(assets/images/4th-sec-n1.svg);
+    background-image: url(./assets/images/4th-sec-n1.svg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px;
@@ -303,7 +303,7 @@ h2{
 .hor-img-two{
     width: 547.51px;
     height: 367.41px;
-    background-image: url(assets/images/4th-sec-n2.svg);
+    background-image: url(./assets/images/4th-sec-n2.svg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px;
@@ -311,7 +311,7 @@ h2{
 .hor-img-three{
     width: 547.51px;
     height: 367.41px;
-    background-image: url(assets/images/4th-sec-n3.svg);
+    background-image: url(./assets/images/4th-sec-n3.svg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px;
