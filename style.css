@@ -39,11 +39,11 @@ h2{
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
-    line-height: 21px; /* Set the line height */
+    line-height: 21px; 
     text-decoration: none;
     color: #262626;
-    display: inline-flex; /* Change to inline-flex */
-    align-items: center; /* Align items vertically */
+    display: inline-flex; 
+    align-items: center;
 }
 .nav-link-bac {
     background-color: #4CE0D7;
@@ -354,6 +354,8 @@ h2{
 .add{
     display: flex;
     flex-direction: column;
+    width: 656px;
+    height: 367.41px;
 }
 .hor-img-one{
     width: 547.51px;
